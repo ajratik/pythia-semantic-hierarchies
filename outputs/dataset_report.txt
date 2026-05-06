@@ -1,0 +1,142 @@
+============================================================
+DATASET CURATION REPORT  (rank ≤ 1, n_synsets ≤ 12)
+============================================================
+Accepted: 123   Rejected: 3
+
+── ANIMAL (26 words) ──
+  L1 ✓  animal           synsets=1 rank=0  chain: whole → living thing → organism → animal
+  L2 ✓  bird             synsets=5 rank=0  chain: animal → chordate → vertebrate → bird
+  L2 ✓  fish             synsets=4 rank=0  chain: chordate → vertebrate → aquatic vertebrate → fish
+  L2 ✓  mammal           synsets=1 rank=0  chain: animal → chordate → vertebrate → mammal
+  L2 ✓  reptile          synsets=1 rank=0  chain: animal → chordate → vertebrate → reptile
+  L3 ✗  bat              synsets=5 rank=0  chain: vertebrate → mammal → placental → bat
+  L3 ✓  cat              synsets=8 rank=0  chain: placental → carnivore → feline → cat
+  L3 ✓  crow             synsets=6 rank=0  chain: passerine → oscine → corvine bird → crow
+  L3 ✓  dog              synsets=7 rank=0  chain: organism → animal → domestic animal → dog
+  L3 ✓  eagle            synsets=4 rank=0  chain: vertebrate → bird → bird of prey → eagle
+  L3 ✗  emu              synsets=2 rank=1  chain: vertebrate → bird → ratite → emu
+  L3 ✓  horse            synsets=5 rank=0  chain: ungulate → odd-toed ungulate → equine → horse
+  L3 ✗  ostrich          synsets=2 rank=0  chain: living thing → organism → person → ostrich
+  L3 ✗  penguin          synsets=1 rank=0  chain: aquatic bird → seabird → sphenisciform seabird → penguin
+  L3 ✗  platypus         synsets=1 rank=0  chain: mammal → prototherian → monotreme → platypus
+  L3 ✓  rabbit           synsets=3 rank=0  chain: placental → lagomorph → leporid → rabbit
+  L3 ✓  robin            synsets=2 rank=0  chain: passerine → oscine → thrush → robin
+  L3 ✓  salmon           synsets=4 rank=0  chain: teleost fish → soft-finned fish → salmonid → salmon
+  L3 ✓  shark            synsets=3 rank=0  chain: fish → cartilaginous fish → elasmobranch → shark
+  L3 ✓  sparrow          synsets=2 rank=0  chain: vertebrate → bird → passerine → sparrow
+  L3 ✗  whale            synsets=2 rank=1  chain: placental → aquatic mammal → cetacean → whale
+  L4 ✓  canary           synsets=4 rank=1  chain: performer → musician → singer → canary
+  L4 ✓  dachshund        synsets=1 rank=0  chain: domestic animal → dog → hunting dog → dachshund
+  L4 ✗  dalmatian        synsets=2 rank=1  chain: animal → domestic animal → dog → dalmatian
+  L4 ✓  mallard          synsets=1 rank=0  chain: waterfowl → anseriform bird → duck → mallard
+  L4 ✓  poodle           synsets=1 rank=0  chain: animal → domestic animal → dog → poodle
+
+── FOOD (23 words) ──
+  L1 ✓  food             synsets=3 rank=0  chain: physical entity → matter → substance → food
+  L2 ✓  fruit            synsets=3 rank=0  chain: plant part → plant organ → reproductive structure → fruit
+  L2 ✓  grain            synsets=11 rank=0  chain: substance → material → atom → grain
+  L2 ✓  vegetable        synsets=2 rank=0  chain: solid → food → produce → vegetable
+  L3 ✓  apple            synsets=2 rank=0  chain: reproductive structure → fruit → edible fruit → apple
+  L3 ✗  avocado          synsets=2 rank=0  chain: reproductive structure → fruit → edible fruit → avocado
+  L3 ✓  banana           synsets=2 rank=0  chain: plant → vascular plant → herb → banana
+  L3 ✓  bread            synsets=2 rank=0  chain: solid → food → baked goods → bread
+  L3 ✗  broccoli         synsets=2 rank=0  chain: vascular plant → herb → crucifer → broccoli
+  L3 ✓  carrot           synsets=4 rank=0  chain: plant part → plant organ → root → carrot
+  L3 ✗  coconut          synsets=3 rank=1  chain: seed → nut → edible nut → coconut
+  L3 ✓  corn             synsets=7 rank=0  chain: gramineous plant → grass → cereal → corn
+  L3 ✗  cucumber         synsets=2 rank=1  chain: food → produce → vegetable → cucumber
+  L3 ✓  grape            synsets=3 rank=0  chain: reproductive structure → fruit → edible fruit → grape
+  L3 ✓  orange           synsets=5 rank=0  chain: fruit → edible fruit → citrus → orange
+  L3 ✓  potato           synsets=2 rank=0  chain: food → foodstuff → starches → potato
+  L3 ✓  rice             synsets=4 rank=0  chain: food → foodstuff → starches → rice
+  L3 ✗  tomato           synsets=2 rank=0  chain: produce → vegetable → solanaceous vegetable → tomato
+  L3 ✓  wheat            synsets=3 rank=0  chain: gramineous plant → grass → cereal → wheat
+  L4 ✓  lemon            synsets=5 rank=0  chain: fruit → edible fruit → citrus → lemon
+  L4 ✓  mango            synsets=2 rank=0  chain: tree → angiospermous tree → fruit tree → mango
+  L4 ✗  pineapple        synsets=2 rank=0  chain: plant → vascular plant → herb → pineapple
+  L4 ✓  strawberry       synsets=3 rank=0  chain: fruit → edible fruit → berry → strawberry
+
+── FURNITURE (24 words) ──
+  L1 ✓  furniture        synsets=1 rank=0  chain: artifact → instrumentality → furnishing → furniture
+  L2 ✓  bed              synsets=8 rank=0  chain: furnishing → furniture → bedroom furniture → bed
+  L2 ✓  seat             synsets=9 rank=0  chain: region → area → space → seat
+  L2 ✓  table            synsets=6 rank=0  chain: group → arrangement → array → table
+  L2 ✓  wardrobe         synsets=3 rank=0  chain: instrumentality → furnishing → furniture → wardrobe
+  L3 ✗  beanbag          synsets=1 rank=0  chain: instrumentality → container → bag → beanbag
+  L3 ✓  bench            synsets=7 rank=0  chain: furnishing → furniture → seat → bench
+  L3 ✓  bookcase         synsets=1 rank=0  chain: instrumentality → furnishing → furniture → bookcase
+  L3 ✓  cabinet          synsets=4 rank=0  chain: instrumentality → furnishing → furniture → cabinet
+  L3 ✓  chair            synsets=5 rank=0  chain: furnishing → furniture → seat → chair
+  L3 ✗  cradle           synsets=4 rank=0  chain: furnishing → furniture → baby bed → cradle
+  L3 ✓  crib             synsets=5 rank=0  chain: furnishing → furniture → baby bed → crib
+  L3 ✓  desk             synsets=1 rank=0  chain: furnishing → furniture → table → desk
+  L3 ✓  dresser          synsets=5 rank=0  chain: instrumentality → furnishing → furniture → chest of drawers
+  L3 ✗  futon            synsets=1 rank=0  chain: padding → pad → mattress → futon
+  L3 ✗  hammock          synsets=2 rank=1  chain: furniture → bedroom furniture → bed → hammock
+  L3 ✗  highchair        synsets=1 rank=0  chain: furniture → seat → chair → highchair
+  L3 ✗  pew              synsets=1 rank=0  chain: furniture → seat → bench → pew
+  L3 ✓  sofa             synsets=1 rank=0  chain: furnishing → furniture → seat → sofa
+  L3 ✓  stool            synsets=4 rank=0  chain: furnishing → furniture → seat → stool
+  L4 ✓  armchair         synsets=1 rank=0  chain: furniture → seat → chair → armchair
+  L4 ✓  loveseat         synsets=1 rank=0  chain: furniture → seat → sofa → love seat
+  L4 ✗  ottoman          synsets=4 rank=1  chain: lineage → family → dynasty → Ottoman
+  L4 ✓  recliner         synsets=1 rank=0  chain: seat → chair → armchair → recliner
+
+── TOOL (24 words) ──
+  L1 ✓  tool             synsets=4 rank=0  chain: artifact → instrumentality → implement → tool
+  L2 ✓  edge_tool        synsets=1 rank=0  chain: tool → cutting implement → cutter → edge tool
+  L2 ✓  hand_tool        synsets=1 rank=0  chain: instrumentality → implement → tool → hand tool
+  L3 ✓  axe              synsets=1 rank=0  chain: cutting implement → cutter → edge tool → ax
+  L3 ✓  chisel           synsets=1 rank=0  chain: cutting implement → cutter → edge tool → chisel
+  L3 ✗  crowbar          synsets=1 rank=0  chain: implement → bar → lever → crowbar
+  L3 ✓  drill            synsets=4 rank=0  chain: instrumentality → implement → tool → drill
+  L3 ✗  forceps          synsets=1 rank=0  chain: device → instrument → extractor → forceps
+  L3 ✓  hammer           synsets=8 rank=0  chain: mechanism → mechanical device → striker → hammer
+  L3 ✓  knife            synsets=3 rank=0  chain: cutting implement → cutter → edge tool → knife
+  L3 ✓  pliers           synsets=2 rank=0  chain: implement → tool → hand tool → pliers
+  L3 ✓  saw              synsets=3 rank=1  chain: implement → tool → hand tool → saw
+  L3 ✗  scalpel          synsets=1 rank=0  chain: edge tool → knife → surgical knife → scalpel
+  L3 ✓  screwdriver      synsets=2 rank=0  chain: implement → tool → hand tool → screwdriver
+  L3 ✓  shovel           synsets=4 rank=0  chain: implement → tool → hand tool → shovel
+  L3 ✓  spatula          synsets=2 rank=0  chain: kitchen utensil → cooking utensil → turner → spatula
+  L3 ✗  stapler          synsets=1 rank=0  chain: instrumentality → device → machine → stapler
+  L3 ✓  tongs            synsets=1 rank=0  chain: artifact → instrumentality → device → tongs
+  L3 ✓  wrench           synsets=3 rank=0  chain: pathological state → ill health → injury → wrench
+  L4 ✓  awl              synsets=1 rank=0  chain: implement → tool → hand tool → awl
+  L4 ✓  hacksaw          synsets=1 rank=0  chain: tool → hand tool → saw → hacksaw
+  L4 ✓  mallet           synsets=3 rank=0  chain: instrumentality → implement → sports implement → mallet
+  L4 ✗  sledgehammer     synsets=1 rank=0  chain: tool → hand tool → hammer → maul
+  L4 ✗  trowel           synsets=1 rank=0  chain: implement → tool → hand tool → trowel
+
+── VEHICLE (26 words) ──
+  L1 ✓  vehicle          synsets=4 rank=0  chain: artifact → instrumentality → conveyance → vehicle
+  L2 ✓  aircraft         synsets=1 rank=0  chain: conveyance → vehicle → craft → aircraft
+  L2 ✓  boat             synsets=2 rank=0  chain: vehicle → craft → vessel → boat
+  L2 ✓  car              synsets=5 rank=0  chain: wheeled vehicle → self-propelled vehicle → motor vehicle → car
+  L3 ✓  bicycle          synsets=1 rank=0  chain: instrumentality → container → wheeled vehicle → bicycle
+  L3 ✓  bus              synsets=4 rank=0  chain: instrumentality → conveyance → public transport → bus
+  L3 ✓  canoe            synsets=1 rank=0  chain: vessel → boat → small boat → canoe
+  L3 ✗  dogsled          synsets=1 rank=0  chain: conveyance → vehicle → sled → dogsled
+  L3 ✓  ferry            synsets=2 rank=0  chain: craft → vessel → boat → ferry
+  L3 ✗  glider           synsets=1 rank=0  chain: craft → aircraft → heavier-than-air craft → glider
+  L3 ✓  helicopter       synsets=1 rank=0  chain: craft → aircraft → heavier-than-air craft → helicopter
+  L3 ✗  hovercraft       synsets=1 rank=0  chain: conveyance → vehicle → craft → hovercraft
+  L3 ✓  jeep             synsets=1 rank=0  chain: self-propelled vehicle → motor vehicle → car → jeep
+  L3 ✓  jet              synsets=6 rank=0  chain: aircraft → heavier-than-air craft → airplane → jet
+  L3 ✓  motorcycle       synsets=1 rank=0  chain: wheeled vehicle → self-propelled vehicle → motor vehicle → motorcycle
+  L3 ✗  raft             synsets=2 rank=0  chain: whole → artifact → float → raft
+  L3 ✗  rickshaw         synsets=1 rank=0  chain: wheeled vehicle → wagon → cart → jinrikisha
+  L3 ✓  sedan            synsets=2 rank=0  chain: self-propelled vehicle → motor vehicle → car → sedan
+  L3 ✗  skateboard       synsets=1 rank=0  chain: instrumentality → container → wheeled vehicle → skateboard
+  L3 ✓  train            synsets=6 rank=0  chain: instrumentality → conveyance → public transport → train
+  L3 ✓  truck            synsets=2 rank=0  chain: wheeled vehicle → self-propelled vehicle → motor vehicle → truck
+  L4 ✓  ambulance        synsets=1 rank=0  chain: self-propelled vehicle → motor vehicle → car → ambulance
+  L4 ✓  biplane          synsets=1 rank=0  chain: aircraft → heavier-than-air craft → airplane → biplane
+  L4 ✓  convertible      synsets=3 rank=0  chain: self-propelled vehicle → motor vehicle → car → convertible
+  L4 ✓  limousine        synsets=1 rank=0  chain: self-propelled vehicle → motor vehicle → car → limousine
+  L4 ✓  yacht            synsets=1 rank=0  chain: vehicle → craft → vessel → yacht
+
+── REJECTED ──
+  siamese          rank=3 > 1 (not primary sense)
+  blimp            synset blimp.n.01 not in noun list
+  gondola          synset gondola.n.03 not in noun list

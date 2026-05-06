@@ -1,0 +1,2436 @@
+[
+  {
+    "word": "animal",
+    "synset_id": "animal.n.01",
+    "level": 1,
+    "category": "animal",
+    "is_typical": true,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "entity",
+      "physical entity",
+      "object",
+      "whole",
+      "living thing",
+      "organism",
+      "animal"
+    ]
+  },
+  {
+    "word": "mammal",
+    "synset_id": "mammal.n.01",
+    "level": 2,
+    "category": "animal",
+    "is_typical": true,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "physical entity",
+      "object",
+      "whole",
+      "living thing",
+      "organism",
+      "animal",
+      "chordate",
+      "vertebrate",
+      "mammal"
+    ]
+  },
+  {
+    "word": "bird",
+    "synset_id": "bird.n.01",
+    "level": 2,
+    "category": "animal",
+    "is_typical": true,
+    "n_synsets": 5,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "physical entity",
+      "object",
+      "whole",
+      "living thing",
+      "organism",
+      "animal",
+      "chordate",
+      "vertebrate",
+      "bird"
+    ]
+  },
+  {
+    "word": "fish",
+    "synset_id": "fish.n.01",
+    "level": 2,
+    "category": "animal",
+    "is_typical": true,
+    "n_synsets": 4,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "object",
+      "whole",
+      "living thing",
+      "organism",
+      "animal",
+      "chordate",
+      "vertebrate",
+      "aquatic vertebrate",
+      "fish"
+    ]
+  },
+  {
+    "word": "reptile",
+    "synset_id": "reptile.n.01",
+    "level": 2,
+    "category": "animal",
+    "is_typical": true,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "physical entity",
+      "object",
+      "whole",
+      "living thing",
+      "organism",
+      "animal",
+      "chordate",
+      "vertebrate",
+      "reptile"
+    ]
+  },
+  {
+    "word": "dog",
+    "synset_id": "dog.n.01",
+    "level": 3,
+    "category": "animal",
+    "is_typical": true,
+    "n_synsets": 7,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "entity",
+      "physical entity",
+      "object",
+      "whole",
+      "living thing",
+      "organism",
+      "animal",
+      "domestic animal",
+      "dog"
+    ]
+  },
+  {
+    "word": "cat",
+    "synset_id": "cat.n.01",
+    "level": 3,
+    "category": "animal",
+    "is_typical": true,
+    "n_synsets": 8,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "organism",
+      "animal",
+      "chordate",
+      "vertebrate",
+      "mammal",
+      "placental",
+      "carnivore",
+      "feline",
+      "cat"
+    ]
+  },
+  {
+    "word": "horse",
+    "synset_id": "horse.n.01",
+    "level": 3,
+    "category": "animal",
+    "is_typical": true,
+    "n_synsets": 5,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "animal",
+      "chordate",
+      "vertebrate",
+      "mammal",
+      "placental",
+      "ungulate",
+      "odd-toed ungulate",
+      "equine",
+      "horse"
+    ]
+  },
+  {
+    "word": "rabbit",
+    "synset_id": "rabbit.n.01",
+    "level": 3,
+    "category": "animal",
+    "is_typical": true,
+    "n_synsets": 3,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "organism",
+      "animal",
+      "chordate",
+      "vertebrate",
+      "mammal",
+      "placental",
+      "lagomorph",
+      "leporid",
+      "rabbit"
+    ]
+  },
+  {
+    "word": "sparrow",
+    "synset_id": "sparrow.n.01",
+    "level": 3,
+    "category": "animal",
+    "is_typical": true,
+    "n_synsets": 2,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "whole",
+      "living thing",
+      "organism",
+      "animal",
+      "chordate",
+      "vertebrate",
+      "bird",
+      "passerine",
+      "sparrow"
+    ]
+  },
+  {
+    "word": "eagle",
+    "synset_id": "eagle.n.01",
+    "level": 3,
+    "category": "animal",
+    "is_typical": true,
+    "n_synsets": 4,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "whole",
+      "living thing",
+      "organism",
+      "animal",
+      "chordate",
+      "vertebrate",
+      "bird",
+      "bird of prey",
+      "eagle"
+    ]
+  },
+  {
+    "word": "penguin",
+    "synset_id": "penguin.n.01",
+    "level": 3,
+    "category": "animal",
+    "is_typical": false,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "organism",
+      "animal",
+      "chordate",
+      "vertebrate",
+      "bird",
+      "aquatic bird",
+      "seabird",
+      "sphenisciform seabird",
+      "penguin"
+    ]
+  },
+  {
+    "word": "ostrich",
+    "synset_id": "ostrich.n.01",
+    "level": 3,
+    "category": "animal",
+    "is_typical": false,
+    "n_synsets": 2,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "entity",
+      "physical entity",
+      "object",
+      "whole",
+      "living thing",
+      "organism",
+      "person",
+      "ostrich"
+    ]
+  },
+  {
+    "word": "salmon",
+    "synset_id": "salmon.n.01",
+    "level": 3,
+    "category": "animal",
+    "is_typical": true,
+    "n_synsets": 4,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "chordate",
+      "vertebrate",
+      "aquatic vertebrate",
+      "fish",
+      "bony fish",
+      "teleost fish",
+      "soft-finned fish",
+      "salmonid",
+      "salmon"
+    ]
+  },
+  {
+    "word": "shark",
+    "synset_id": "shark.n.01",
+    "level": 3,
+    "category": "animal",
+    "is_typical": true,
+    "n_synsets": 3,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "organism",
+      "animal",
+      "chordate",
+      "vertebrate",
+      "aquatic vertebrate",
+      "fish",
+      "cartilaginous fish",
+      "elasmobranch",
+      "shark"
+    ]
+  },
+  {
+    "word": "dachshund",
+    "synset_id": "dachshund.n.01",
+    "level": 4,
+    "category": "animal",
+    "is_typical": true,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "object",
+      "whole",
+      "living thing",
+      "organism",
+      "animal",
+      "domestic animal",
+      "dog",
+      "hunting dog",
+      "dachshund"
+    ]
+  },
+  {
+    "word": "poodle",
+    "synset_id": "poodle.n.01",
+    "level": 4,
+    "category": "animal",
+    "is_typical": true,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "physical entity",
+      "object",
+      "whole",
+      "living thing",
+      "organism",
+      "animal",
+      "domestic animal",
+      "dog",
+      "poodle"
+    ]
+  },
+  {
+    "word": "mallard",
+    "synset_id": "mallard.n.01",
+    "level": 4,
+    "category": "animal",
+    "is_typical": true,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "animal",
+      "chordate",
+      "vertebrate",
+      "bird",
+      "aquatic bird",
+      "waterfowl",
+      "anseriform bird",
+      "duck",
+      "mallard"
+    ]
+  },
+  {
+    "word": "canary",
+    "synset_id": "canary.n.02",
+    "level": 4,
+    "category": "animal",
+    "is_typical": true,
+    "n_synsets": 4,
+    "synset_rank": 1,
+    "hypernym_chain": [
+      "whole",
+      "living thing",
+      "organism",
+      "person",
+      "entertainer",
+      "performer",
+      "musician",
+      "singer",
+      "canary"
+    ]
+  },
+  {
+    "word": "robin",
+    "synset_id": "robin.n.01",
+    "level": 3,
+    "category": "animal",
+    "is_typical": true,
+    "n_synsets": 2,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "organism",
+      "animal",
+      "chordate",
+      "vertebrate",
+      "bird",
+      "passerine",
+      "oscine",
+      "thrush",
+      "robin"
+    ]
+  },
+  {
+    "word": "crow",
+    "synset_id": "crow.n.01",
+    "level": 3,
+    "category": "animal",
+    "is_typical": true,
+    "n_synsets": 6,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "organism",
+      "animal",
+      "chordate",
+      "vertebrate",
+      "bird",
+      "passerine",
+      "oscine",
+      "corvine bird",
+      "crow"
+    ]
+  },
+  {
+    "word": "emu",
+    "synset_id": "emu.n.02",
+    "level": 3,
+    "category": "animal",
+    "is_typical": false,
+    "n_synsets": 2,
+    "synset_rank": 1,
+    "hypernym_chain": [
+      "whole",
+      "living thing",
+      "organism",
+      "animal",
+      "chordate",
+      "vertebrate",
+      "bird",
+      "ratite",
+      "emu"
+    ]
+  },
+  {
+    "word": "dalmatian",
+    "synset_id": "dalmatian.n.02",
+    "level": 4,
+    "category": "animal",
+    "is_typical": false,
+    "n_synsets": 2,
+    "synset_rank": 1,
+    "hypernym_chain": [
+      "physical entity",
+      "object",
+      "whole",
+      "living thing",
+      "organism",
+      "animal",
+      "domestic animal",
+      "dog",
+      "dalmatian"
+    ]
+  },
+  {
+    "word": "bat",
+    "synset_id": "bat.n.01",
+    "level": 3,
+    "category": "animal",
+    "is_typical": false,
+    "n_synsets": 5,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "whole",
+      "living thing",
+      "organism",
+      "animal",
+      "chordate",
+      "vertebrate",
+      "mammal",
+      "placental",
+      "bat"
+    ]
+  },
+  {
+    "word": "whale",
+    "synset_id": "whale.n.02",
+    "level": 3,
+    "category": "animal",
+    "is_typical": false,
+    "n_synsets": 2,
+    "synset_rank": 1,
+    "hypernym_chain": [
+      "organism",
+      "animal",
+      "chordate",
+      "vertebrate",
+      "mammal",
+      "placental",
+      "aquatic mammal",
+      "cetacean",
+      "whale"
+    ]
+  },
+  {
+    "word": "platypus",
+    "synset_id": "platypus.n.01",
+    "level": 3,
+    "category": "animal",
+    "is_typical": false,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "living thing",
+      "organism",
+      "animal",
+      "chordate",
+      "vertebrate",
+      "mammal",
+      "prototherian",
+      "monotreme",
+      "platypus"
+    ]
+  },
+  {
+    "word": "vehicle",
+    "synset_id": "vehicle.n.01",
+    "level": 1,
+    "category": "vehicle",
+    "is_typical": true,
+    "n_synsets": 4,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "entity",
+      "physical entity",
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "conveyance",
+      "vehicle"
+    ]
+  },
+  {
+    "word": "car",
+    "synset_id": "car.n.01",
+    "level": 2,
+    "category": "vehicle",
+    "is_typical": true,
+    "n_synsets": 5,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "container",
+      "wheeled vehicle",
+      "self-propelled vehicle",
+      "motor vehicle",
+      "car"
+    ]
+  },
+  {
+    "word": "aircraft",
+    "synset_id": "aircraft.n.01",
+    "level": 2,
+    "category": "vehicle",
+    "is_typical": true,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "physical entity",
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "conveyance",
+      "vehicle",
+      "craft",
+      "aircraft"
+    ]
+  },
+  {
+    "word": "boat",
+    "synset_id": "boat.n.01",
+    "level": 2,
+    "category": "vehicle",
+    "is_typical": true,
+    "n_synsets": 2,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "conveyance",
+      "vehicle",
+      "craft",
+      "vessel",
+      "boat"
+    ]
+  },
+  {
+    "word": "truck",
+    "synset_id": "truck.n.01",
+    "level": 3,
+    "category": "vehicle",
+    "is_typical": true,
+    "n_synsets": 2,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "container",
+      "wheeled vehicle",
+      "self-propelled vehicle",
+      "motor vehicle",
+      "truck"
+    ]
+  },
+  {
+    "word": "sedan",
+    "synset_id": "sedan.n.01",
+    "level": 3,
+    "category": "vehicle",
+    "is_typical": true,
+    "n_synsets": 2,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "whole",
+      "artifact",
+      "instrumentality",
+      "container",
+      "wheeled vehicle",
+      "self-propelled vehicle",
+      "motor vehicle",
+      "car",
+      "sedan"
+    ]
+  },
+  {
+    "word": "jeep",
+    "synset_id": "jeep.n.01",
+    "level": 3,
+    "category": "vehicle",
+    "is_typical": true,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "whole",
+      "artifact",
+      "instrumentality",
+      "container",
+      "wheeled vehicle",
+      "self-propelled vehicle",
+      "motor vehicle",
+      "car",
+      "jeep"
+    ]
+  },
+  {
+    "word": "jet",
+    "synset_id": "jet.n.01",
+    "level": 3,
+    "category": "vehicle",
+    "is_typical": true,
+    "n_synsets": 6,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "artifact",
+      "instrumentality",
+      "conveyance",
+      "vehicle",
+      "craft",
+      "aircraft",
+      "heavier-than-air craft",
+      "airplane",
+      "jet"
+    ]
+  },
+  {
+    "word": "helicopter",
+    "synset_id": "helicopter.n.01",
+    "level": 3,
+    "category": "vehicle",
+    "is_typical": true,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "whole",
+      "artifact",
+      "instrumentality",
+      "conveyance",
+      "vehicle",
+      "craft",
+      "aircraft",
+      "heavier-than-air craft",
+      "helicopter"
+    ]
+  },
+  {
+    "word": "canoe",
+    "synset_id": "canoe.n.01",
+    "level": 3,
+    "category": "vehicle",
+    "is_typical": true,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "artifact",
+      "instrumentality",
+      "conveyance",
+      "vehicle",
+      "craft",
+      "vessel",
+      "boat",
+      "small boat",
+      "canoe"
+    ]
+  },
+  {
+    "word": "limousine",
+    "synset_id": "limousine.n.01",
+    "level": 4,
+    "category": "vehicle",
+    "is_typical": true,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "whole",
+      "artifact",
+      "instrumentality",
+      "container",
+      "wheeled vehicle",
+      "self-propelled vehicle",
+      "motor vehicle",
+      "car",
+      "limousine"
+    ]
+  },
+  {
+    "word": "convertible",
+    "synset_id": "convertible.n.01",
+    "level": 4,
+    "category": "vehicle",
+    "is_typical": true,
+    "n_synsets": 3,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "whole",
+      "artifact",
+      "instrumentality",
+      "container",
+      "wheeled vehicle",
+      "self-propelled vehicle",
+      "motor vehicle",
+      "car",
+      "convertible"
+    ]
+  },
+  {
+    "word": "biplane",
+    "synset_id": "biplane.n.01",
+    "level": 4,
+    "category": "vehicle",
+    "is_typical": true,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "artifact",
+      "instrumentality",
+      "conveyance",
+      "vehicle",
+      "craft",
+      "aircraft",
+      "heavier-than-air craft",
+      "airplane",
+      "biplane"
+    ]
+  },
+  {
+    "word": "bus",
+    "synset_id": "bus.n.01",
+    "level": 3,
+    "category": "vehicle",
+    "is_typical": true,
+    "n_synsets": 4,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "entity",
+      "physical entity",
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "conveyance",
+      "public transport",
+      "bus"
+    ]
+  },
+  {
+    "word": "motorcycle",
+    "synset_id": "motorcycle.n.01",
+    "level": 3,
+    "category": "vehicle",
+    "is_typical": true,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "container",
+      "wheeled vehicle",
+      "self-propelled vehicle",
+      "motor vehicle",
+      "motorcycle"
+    ]
+  },
+  {
+    "word": "bicycle",
+    "synset_id": "bicycle.n.01",
+    "level": 3,
+    "category": "vehicle",
+    "is_typical": true,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "entity",
+      "physical entity",
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "container",
+      "wheeled vehicle",
+      "bicycle"
+    ]
+  },
+  {
+    "word": "train",
+    "synset_id": "train.n.01",
+    "level": 3,
+    "category": "vehicle",
+    "is_typical": true,
+    "n_synsets": 6,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "entity",
+      "physical entity",
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "conveyance",
+      "public transport",
+      "train"
+    ]
+  },
+  {
+    "word": "ferry",
+    "synset_id": "ferry.n.01",
+    "level": 3,
+    "category": "vehicle",
+    "is_typical": true,
+    "n_synsets": 2,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "whole",
+      "artifact",
+      "instrumentality",
+      "conveyance",
+      "vehicle",
+      "craft",
+      "vessel",
+      "boat",
+      "ferry"
+    ]
+  },
+  {
+    "word": "yacht",
+    "synset_id": "yacht.n.01",
+    "level": 4,
+    "category": "vehicle",
+    "is_typical": true,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "conveyance",
+      "vehicle",
+      "craft",
+      "vessel",
+      "yacht"
+    ]
+  },
+  {
+    "word": "ambulance",
+    "synset_id": "ambulance.n.01",
+    "level": 4,
+    "category": "vehicle",
+    "is_typical": true,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "whole",
+      "artifact",
+      "instrumentality",
+      "container",
+      "wheeled vehicle",
+      "self-propelled vehicle",
+      "motor vehicle",
+      "car",
+      "ambulance"
+    ]
+  },
+  {
+    "word": "rickshaw",
+    "synset_id": "jinrikisha.n.01",
+    "level": 3,
+    "category": "vehicle",
+    "is_typical": false,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "container",
+      "wheeled vehicle",
+      "wagon",
+      "cart",
+      "jinrikisha"
+    ]
+  },
+  {
+    "word": "hovercraft",
+    "synset_id": "hovercraft.n.01",
+    "level": 3,
+    "category": "vehicle",
+    "is_typical": false,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "physical entity",
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "conveyance",
+      "vehicle",
+      "craft",
+      "hovercraft"
+    ]
+  },
+  {
+    "word": "skateboard",
+    "synset_id": "skateboard.n.01",
+    "level": 3,
+    "category": "vehicle",
+    "is_typical": false,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "entity",
+      "physical entity",
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "container",
+      "wheeled vehicle",
+      "skateboard"
+    ]
+  },
+  {
+    "word": "dogsled",
+    "synset_id": "dogsled.n.01",
+    "level": 3,
+    "category": "vehicle",
+    "is_typical": false,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "physical entity",
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "conveyance",
+      "vehicle",
+      "sled",
+      "dogsled"
+    ]
+  },
+  {
+    "word": "glider",
+    "synset_id": "glider.n.01",
+    "level": 3,
+    "category": "vehicle",
+    "is_typical": false,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "whole",
+      "artifact",
+      "instrumentality",
+      "conveyance",
+      "vehicle",
+      "craft",
+      "aircraft",
+      "heavier-than-air craft",
+      "glider"
+    ]
+  },
+  {
+    "word": "raft",
+    "synset_id": "raft.n.01",
+    "level": 3,
+    "category": "vehicle",
+    "is_typical": false,
+    "n_synsets": 2,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "entity",
+      "physical entity",
+      "object",
+      "whole",
+      "artifact",
+      "float",
+      "raft"
+    ]
+  },
+  {
+    "word": "tool",
+    "synset_id": "tool.n.01",
+    "level": 1,
+    "category": "tool",
+    "is_typical": true,
+    "n_synsets": 4,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "entity",
+      "physical entity",
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "implement",
+      "tool"
+    ]
+  },
+  {
+    "word": "hand_tool",
+    "synset_id": "hand_tool.n.01",
+    "level": 2,
+    "category": "tool",
+    "is_typical": true,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "entity",
+      "physical entity",
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "implement",
+      "tool",
+      "hand tool"
+    ]
+  },
+  {
+    "word": "edge_tool",
+    "synset_id": "edge_tool.n.01",
+    "level": 2,
+    "category": "tool",
+    "is_typical": true,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "implement",
+      "tool",
+      "cutting implement",
+      "cutter",
+      "edge tool"
+    ]
+  },
+  {
+    "word": "hammer",
+    "synset_id": "hammer.n.01",
+    "level": 3,
+    "category": "tool",
+    "is_typical": true,
+    "n_synsets": 8,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "device",
+      "mechanism",
+      "mechanical device",
+      "striker",
+      "hammer"
+    ]
+  },
+  {
+    "word": "screwdriver",
+    "synset_id": "screwdriver.n.01",
+    "level": 3,
+    "category": "tool",
+    "is_typical": true,
+    "n_synsets": 2,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "physical entity",
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "implement",
+      "tool",
+      "hand tool",
+      "screwdriver"
+    ]
+  },
+  {
+    "word": "wrench",
+    "synset_id": "wrench.n.01",
+    "level": 3,
+    "category": "tool",
+    "is_typical": true,
+    "n_synsets": 3,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "abstraction",
+      "attribute",
+      "state",
+      "condition",
+      "physical condition",
+      "pathological state",
+      "ill health",
+      "injury",
+      "wrench"
+    ]
+  },
+  {
+    "word": "saw",
+    "synset_id": "saw.n.02",
+    "level": 3,
+    "category": "tool",
+    "is_typical": true,
+    "n_synsets": 3,
+    "synset_rank": 1,
+    "hypernym_chain": [
+      "physical entity",
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "implement",
+      "tool",
+      "hand tool",
+      "saw"
+    ]
+  },
+  {
+    "word": "chisel",
+    "synset_id": "chisel.n.01",
+    "level": 3,
+    "category": "tool",
+    "is_typical": true,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "whole",
+      "artifact",
+      "instrumentality",
+      "implement",
+      "tool",
+      "cutting implement",
+      "cutter",
+      "edge tool",
+      "chisel"
+    ]
+  },
+  {
+    "word": "pliers",
+    "synset_id": "pliers.n.01",
+    "level": 3,
+    "category": "tool",
+    "is_typical": true,
+    "n_synsets": 2,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "physical entity",
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "implement",
+      "tool",
+      "hand tool",
+      "pliers"
+    ]
+  },
+  {
+    "word": "mallet",
+    "synset_id": "mallet.n.01",
+    "level": 4,
+    "category": "tool",
+    "is_typical": true,
+    "n_synsets": 3,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "entity",
+      "physical entity",
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "implement",
+      "sports implement",
+      "mallet"
+    ]
+  },
+  {
+    "word": "sledgehammer",
+    "synset_id": "maul.n.01",
+    "level": 4,
+    "category": "tool",
+    "is_typical": false,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "implement",
+      "tool",
+      "hand tool",
+      "hammer",
+      "maul"
+    ]
+  },
+  {
+    "word": "hacksaw",
+    "synset_id": "hacksaw.n.01",
+    "level": 4,
+    "category": "tool",
+    "is_typical": true,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "implement",
+      "tool",
+      "hand tool",
+      "saw",
+      "hacksaw"
+    ]
+  },
+  {
+    "word": "knife",
+    "synset_id": "knife.n.01",
+    "level": 3,
+    "category": "tool",
+    "is_typical": true,
+    "n_synsets": 3,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "whole",
+      "artifact",
+      "instrumentality",
+      "implement",
+      "tool",
+      "cutting implement",
+      "cutter",
+      "edge tool",
+      "knife"
+    ]
+  },
+  {
+    "word": "drill",
+    "synset_id": "drill.n.01",
+    "level": 3,
+    "category": "tool",
+    "is_typical": true,
+    "n_synsets": 4,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "entity",
+      "physical entity",
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "implement",
+      "tool",
+      "drill"
+    ]
+  },
+  {
+    "word": "awl",
+    "synset_id": "awl.n.01",
+    "level": 4,
+    "category": "tool",
+    "is_typical": true,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "physical entity",
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "implement",
+      "tool",
+      "hand tool",
+      "awl"
+    ]
+  },
+  {
+    "word": "tongs",
+    "synset_id": "tongs.n.01",
+    "level": 3,
+    "category": "tool",
+    "is_typical": true,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "entity",
+      "physical entity",
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "device",
+      "tongs"
+    ]
+  },
+  {
+    "word": "spatula",
+    "synset_id": "spatula.n.01",
+    "level": 3,
+    "category": "tool",
+    "is_typical": true,
+    "n_synsets": 2,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "whole",
+      "artifact",
+      "instrumentality",
+      "implement",
+      "utensil",
+      "kitchen utensil",
+      "cooking utensil",
+      "turner",
+      "spatula"
+    ]
+  },
+  {
+    "word": "shovel",
+    "synset_id": "shovel.n.01",
+    "level": 3,
+    "category": "tool",
+    "is_typical": true,
+    "n_synsets": 4,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "physical entity",
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "implement",
+      "tool",
+      "hand tool",
+      "shovel"
+    ]
+  },
+  {
+    "word": "axe",
+    "synset_id": "ax.n.01",
+    "level": 3,
+    "category": "tool",
+    "is_typical": true,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "whole",
+      "artifact",
+      "instrumentality",
+      "implement",
+      "tool",
+      "cutting implement",
+      "cutter",
+      "edge tool",
+      "ax"
+    ]
+  },
+  {
+    "word": "crowbar",
+    "synset_id": "crowbar.n.01",
+    "level": 3,
+    "category": "tool",
+    "is_typical": false,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "physical entity",
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "implement",
+      "bar",
+      "lever",
+      "crowbar"
+    ]
+  },
+  {
+    "word": "trowel",
+    "synset_id": "trowel.n.01",
+    "level": 4,
+    "category": "tool",
+    "is_typical": false,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "physical entity",
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "implement",
+      "tool",
+      "hand tool",
+      "trowel"
+    ]
+  },
+  {
+    "word": "stapler",
+    "synset_id": "stapler.n.01",
+    "level": 3,
+    "category": "tool",
+    "is_typical": false,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "entity",
+      "physical entity",
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "device",
+      "machine",
+      "stapler"
+    ]
+  },
+  {
+    "word": "scalpel",
+    "synset_id": "scalpel.n.01",
+    "level": 3,
+    "category": "tool",
+    "is_typical": false,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "instrumentality",
+      "implement",
+      "tool",
+      "cutting implement",
+      "cutter",
+      "edge tool",
+      "knife",
+      "surgical knife",
+      "scalpel"
+    ]
+  },
+  {
+    "word": "forceps",
+    "synset_id": "forceps.n.01",
+    "level": 3,
+    "category": "tool",
+    "is_typical": false,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "physical entity",
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "device",
+      "instrument",
+      "extractor",
+      "forceps"
+    ]
+  },
+  {
+    "word": "food",
+    "synset_id": "food.n.01",
+    "level": 1,
+    "category": "food",
+    "is_typical": true,
+    "n_synsets": 3,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "entity",
+      "physical entity",
+      "matter",
+      "substance",
+      "food"
+    ]
+  },
+  {
+    "word": "fruit",
+    "synset_id": "fruit.n.01",
+    "level": 2,
+    "category": "food",
+    "is_typical": true,
+    "n_synsets": 3,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "entity",
+      "physical entity",
+      "object",
+      "whole",
+      "natural object",
+      "plant part",
+      "plant organ",
+      "reproductive structure",
+      "fruit"
+    ]
+  },
+  {
+    "word": "vegetable",
+    "synset_id": "vegetable.n.01",
+    "level": 2,
+    "category": "food",
+    "is_typical": true,
+    "n_synsets": 2,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "entity",
+      "physical entity",
+      "matter",
+      "solid",
+      "food",
+      "produce",
+      "vegetable"
+    ]
+  },
+  {
+    "word": "grain",
+    "synset_id": "grain.n.01",
+    "level": 2,
+    "category": "food",
+    "is_typical": true,
+    "n_synsets": 11,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "entity",
+      "physical entity",
+      "matter",
+      "substance",
+      "material",
+      "atom",
+      "grain"
+    ]
+  },
+  {
+    "word": "apple",
+    "synset_id": "apple.n.01",
+    "level": 3,
+    "category": "food",
+    "is_typical": true,
+    "n_synsets": 2,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "object",
+      "whole",
+      "natural object",
+      "plant part",
+      "plant organ",
+      "reproductive structure",
+      "fruit",
+      "edible fruit",
+      "apple"
+    ]
+  },
+  {
+    "word": "banana",
+    "synset_id": "banana.n.01",
+    "level": 3,
+    "category": "food",
+    "is_typical": true,
+    "n_synsets": 2,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "physical entity",
+      "object",
+      "whole",
+      "living thing",
+      "organism",
+      "plant",
+      "vascular plant",
+      "herb",
+      "banana"
+    ]
+  },
+  {
+    "word": "orange",
+    "synset_id": "orange.n.01",
+    "level": 3,
+    "category": "food",
+    "is_typical": true,
+    "n_synsets": 5,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "whole",
+      "natural object",
+      "plant part",
+      "plant organ",
+      "reproductive structure",
+      "fruit",
+      "edible fruit",
+      "citrus",
+      "orange"
+    ]
+  },
+  {
+    "word": "tomato",
+    "synset_id": "tomato.n.01",
+    "level": 3,
+    "category": "food",
+    "is_typical": false,
+    "n_synsets": 2,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "entity",
+      "physical entity",
+      "matter",
+      "solid",
+      "food",
+      "produce",
+      "vegetable",
+      "solanaceous vegetable",
+      "tomato"
+    ]
+  },
+  {
+    "word": "carrot",
+    "synset_id": "carrot.n.01",
+    "level": 3,
+    "category": "food",
+    "is_typical": true,
+    "n_synsets": 4,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "entity",
+      "physical entity",
+      "object",
+      "whole",
+      "natural object",
+      "plant part",
+      "plant organ",
+      "root",
+      "carrot"
+    ]
+  },
+  {
+    "word": "broccoli",
+    "synset_id": "broccoli.n.01",
+    "level": 3,
+    "category": "food",
+    "is_typical": false,
+    "n_synsets": 2,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "object",
+      "whole",
+      "living thing",
+      "organism",
+      "plant",
+      "vascular plant",
+      "herb",
+      "crucifer",
+      "broccoli"
+    ]
+  },
+  {
+    "word": "wheat",
+    "synset_id": "wheat.n.01",
+    "level": 3,
+    "category": "food",
+    "is_typical": true,
+    "n_synsets": 3,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "living thing",
+      "organism",
+      "plant",
+      "vascular plant",
+      "herb",
+      "gramineous plant",
+      "grass",
+      "cereal",
+      "wheat"
+    ]
+  },
+  {
+    "word": "pineapple",
+    "synset_id": "pineapple.n.01",
+    "level": 4,
+    "category": "food",
+    "is_typical": false,
+    "n_synsets": 2,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "physical entity",
+      "object",
+      "whole",
+      "living thing",
+      "organism",
+      "plant",
+      "vascular plant",
+      "herb",
+      "pineapple"
+    ]
+  },
+  {
+    "word": "strawberry",
+    "synset_id": "strawberry.n.01",
+    "level": 4,
+    "category": "food",
+    "is_typical": true,
+    "n_synsets": 3,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "whole",
+      "natural object",
+      "plant part",
+      "plant organ",
+      "reproductive structure",
+      "fruit",
+      "edible fruit",
+      "berry",
+      "strawberry"
+    ]
+  },
+  {
+    "word": "lemon",
+    "synset_id": "lemon.n.01",
+    "level": 4,
+    "category": "food",
+    "is_typical": true,
+    "n_synsets": 5,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "whole",
+      "natural object",
+      "plant part",
+      "plant organ",
+      "reproductive structure",
+      "fruit",
+      "edible fruit",
+      "citrus",
+      "lemon"
+    ]
+  },
+  {
+    "word": "bread",
+    "synset_id": "bread.n.01",
+    "level": 3,
+    "category": "food",
+    "is_typical": true,
+    "n_synsets": 2,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "entity",
+      "physical entity",
+      "matter",
+      "solid",
+      "food",
+      "baked goods",
+      "bread"
+    ]
+  },
+  {
+    "word": "rice",
+    "synset_id": "rice.n.01",
+    "level": 3,
+    "category": "food",
+    "is_typical": true,
+    "n_synsets": 4,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "entity",
+      "physical entity",
+      "matter",
+      "substance",
+      "food",
+      "foodstuff",
+      "starches",
+      "rice"
+    ]
+  },
+  {
+    "word": "potato",
+    "synset_id": "potato.n.01",
+    "level": 3,
+    "category": "food",
+    "is_typical": true,
+    "n_synsets": 2,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "entity",
+      "physical entity",
+      "matter",
+      "substance",
+      "food",
+      "foodstuff",
+      "starches",
+      "potato"
+    ]
+  },
+  {
+    "word": "grape",
+    "synset_id": "grape.n.01",
+    "level": 3,
+    "category": "food",
+    "is_typical": true,
+    "n_synsets": 3,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "object",
+      "whole",
+      "natural object",
+      "plant part",
+      "plant organ",
+      "reproductive structure",
+      "fruit",
+      "edible fruit",
+      "grape"
+    ]
+  },
+  {
+    "word": "mango",
+    "synset_id": "mango.n.01",
+    "level": 4,
+    "category": "food",
+    "is_typical": true,
+    "n_synsets": 2,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "living thing",
+      "organism",
+      "plant",
+      "vascular plant",
+      "woody plant",
+      "tree",
+      "angiospermous tree",
+      "fruit tree",
+      "mango"
+    ]
+  },
+  {
+    "word": "corn",
+    "synset_id": "corn.n.01",
+    "level": 3,
+    "category": "food",
+    "is_typical": true,
+    "n_synsets": 7,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "living thing",
+      "organism",
+      "plant",
+      "vascular plant",
+      "herb",
+      "gramineous plant",
+      "grass",
+      "cereal",
+      "corn"
+    ]
+  },
+  {
+    "word": "avocado",
+    "synset_id": "avocado.n.01",
+    "level": 3,
+    "category": "food",
+    "is_typical": false,
+    "n_synsets": 2,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "object",
+      "whole",
+      "natural object",
+      "plant part",
+      "plant organ",
+      "reproductive structure",
+      "fruit",
+      "edible fruit",
+      "avocado"
+    ]
+  },
+  {
+    "word": "cucumber",
+    "synset_id": "cucumber.n.02",
+    "level": 3,
+    "category": "food",
+    "is_typical": false,
+    "n_synsets": 2,
+    "synset_rank": 1,
+    "hypernym_chain": [
+      "entity",
+      "physical entity",
+      "matter",
+      "solid",
+      "food",
+      "produce",
+      "vegetable",
+      "cucumber"
+    ]
+  },
+  {
+    "word": "coconut",
+    "synset_id": "coconut.n.02",
+    "level": 3,
+    "category": "food",
+    "is_typical": false,
+    "n_synsets": 3,
+    "synset_rank": 1,
+    "hypernym_chain": [
+      "natural object",
+      "plant part",
+      "plant organ",
+      "reproductive structure",
+      "fruit",
+      "seed",
+      "nut",
+      "edible nut",
+      "coconut"
+    ]
+  },
+  {
+    "word": "furniture",
+    "synset_id": "furniture.n.01",
+    "level": 1,
+    "category": "furniture",
+    "is_typical": true,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "entity",
+      "physical entity",
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "furnishing",
+      "furniture"
+    ]
+  },
+  {
+    "word": "seat",
+    "synset_id": "seat.n.01",
+    "level": 2,
+    "category": "furniture",
+    "is_typical": true,
+    "n_synsets": 9,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "entity",
+      "physical entity",
+      "object",
+      "location",
+      "region",
+      "area",
+      "space",
+      "seat"
+    ]
+  },
+  {
+    "word": "table",
+    "synset_id": "table.n.01",
+    "level": 2,
+    "category": "furniture",
+    "is_typical": true,
+    "n_synsets": 6,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "entity",
+      "abstraction",
+      "group",
+      "arrangement",
+      "array",
+      "table"
+    ]
+  },
+  {
+    "word": "bed",
+    "synset_id": "bed.n.01",
+    "level": 2,
+    "category": "furniture",
+    "is_typical": true,
+    "n_synsets": 8,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "physical entity",
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "furnishing",
+      "furniture",
+      "bedroom furniture",
+      "bed"
+    ]
+  },
+  {
+    "word": "wardrobe",
+    "synset_id": "wardrobe.n.01",
+    "level": 2,
+    "category": "furniture",
+    "is_typical": true,
+    "n_synsets": 3,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "entity",
+      "physical entity",
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "furnishing",
+      "furniture",
+      "wardrobe"
+    ]
+  },
+  {
+    "word": "chair",
+    "synset_id": "chair.n.01",
+    "level": 3,
+    "category": "furniture",
+    "is_typical": true,
+    "n_synsets": 5,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "physical entity",
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "furnishing",
+      "furniture",
+      "seat",
+      "chair"
+    ]
+  },
+  {
+    "word": "sofa",
+    "synset_id": "sofa.n.01",
+    "level": 3,
+    "category": "furniture",
+    "is_typical": true,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "physical entity",
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "furnishing",
+      "furniture",
+      "seat",
+      "sofa"
+    ]
+  },
+  {
+    "word": "stool",
+    "synset_id": "stool.n.01",
+    "level": 3,
+    "category": "furniture",
+    "is_typical": true,
+    "n_synsets": 4,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "physical entity",
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "furnishing",
+      "furniture",
+      "seat",
+      "stool"
+    ]
+  },
+  {
+    "word": "desk",
+    "synset_id": "desk.n.01",
+    "level": 3,
+    "category": "furniture",
+    "is_typical": true,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "physical entity",
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "furnishing",
+      "furniture",
+      "table",
+      "desk"
+    ]
+  },
+  {
+    "word": "bench",
+    "synset_id": "bench.n.01",
+    "level": 3,
+    "category": "furniture",
+    "is_typical": true,
+    "n_synsets": 7,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "physical entity",
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "furnishing",
+      "furniture",
+      "seat",
+      "bench"
+    ]
+  },
+  {
+    "word": "bookcase",
+    "synset_id": "bookcase.n.01",
+    "level": 3,
+    "category": "furniture",
+    "is_typical": true,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "entity",
+      "physical entity",
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "furnishing",
+      "furniture",
+      "bookcase"
+    ]
+  },
+  {
+    "word": "cabinet",
+    "synset_id": "cabinet.n.01",
+    "level": 3,
+    "category": "furniture",
+    "is_typical": true,
+    "n_synsets": 4,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "entity",
+      "physical entity",
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "furnishing",
+      "furniture",
+      "cabinet"
+    ]
+  },
+  {
+    "word": "dresser",
+    "synset_id": "chest_of_drawers.n.01",
+    "level": 3,
+    "category": "furniture",
+    "is_typical": true,
+    "n_synsets": 5,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "entity",
+      "physical entity",
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "furnishing",
+      "furniture",
+      "chest of drawers"
+    ]
+  },
+  {
+    "word": "crib",
+    "synset_id": "crib.n.01",
+    "level": 3,
+    "category": "furniture",
+    "is_typical": true,
+    "n_synsets": 5,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "physical entity",
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "furnishing",
+      "furniture",
+      "baby bed",
+      "crib"
+    ]
+  },
+  {
+    "word": "ottoman",
+    "synset_id": "ottoman.n.02",
+    "level": 4,
+    "category": "furniture",
+    "is_typical": false,
+    "n_synsets": 4,
+    "synset_rank": 1,
+    "hypernym_chain": [
+      "abstraction",
+      "group",
+      "social group",
+      "kin",
+      "genealogy",
+      "lineage",
+      "family",
+      "dynasty",
+      "Ottoman"
+    ]
+  },
+  {
+    "word": "armchair",
+    "synset_id": "armchair.n.01",
+    "level": 4,
+    "category": "furniture",
+    "is_typical": true,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "furnishing",
+      "furniture",
+      "seat",
+      "chair",
+      "armchair"
+    ]
+  },
+  {
+    "word": "recliner",
+    "synset_id": "recliner.n.01",
+    "level": 4,
+    "category": "furniture",
+    "is_typical": true,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "whole",
+      "artifact",
+      "instrumentality",
+      "furnishing",
+      "furniture",
+      "seat",
+      "chair",
+      "armchair",
+      "recliner"
+    ]
+  },
+  {
+    "word": "loveseat",
+    "synset_id": "love_seat.n.01",
+    "level": 4,
+    "category": "furniture",
+    "is_typical": true,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "furnishing",
+      "furniture",
+      "seat",
+      "sofa",
+      "love seat"
+    ]
+  },
+  {
+    "word": "hammock",
+    "synset_id": "hammock.n.02",
+    "level": 3,
+    "category": "furniture",
+    "is_typical": false,
+    "n_synsets": 2,
+    "synset_rank": 1,
+    "hypernym_chain": [
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "furnishing",
+      "furniture",
+      "bedroom furniture",
+      "bed",
+      "hammock"
+    ]
+  },
+  {
+    "word": "futon",
+    "synset_id": "futon.n.01",
+    "level": 3,
+    "category": "furniture",
+    "is_typical": false,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "entity",
+      "physical entity",
+      "object",
+      "whole",
+      "artifact",
+      "padding",
+      "pad",
+      "mattress",
+      "futon"
+    ]
+  },
+  {
+    "word": "pew",
+    "synset_id": "pew.n.01",
+    "level": 3,
+    "category": "furniture",
+    "is_typical": false,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "furnishing",
+      "furniture",
+      "seat",
+      "bench",
+      "pew"
+    ]
+  },
+  {
+    "word": "beanbag",
+    "synset_id": "beanbag.n.01",
+    "level": 3,
+    "category": "furniture",
+    "is_typical": false,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "entity",
+      "physical entity",
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "container",
+      "bag",
+      "beanbag"
+    ]
+  },
+  {
+    "word": "cradle",
+    "synset_id": "cradle.n.01",
+    "level": 3,
+    "category": "furniture",
+    "is_typical": false,
+    "n_synsets": 4,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "physical entity",
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "furnishing",
+      "furniture",
+      "baby bed",
+      "cradle"
+    ]
+  },
+  {
+    "word": "highchair",
+    "synset_id": "highchair.n.01",
+    "level": 3,
+    "category": "furniture",
+    "is_typical": false,
+    "n_synsets": 1,
+    "synset_rank": 0,
+    "hypernym_chain": [
+      "object",
+      "whole",
+      "artifact",
+      "instrumentality",
+      "furnishing",
+      "furniture",
+      "seat",
+      "chair",
+      "highchair"
+    ]
+  }
+]
